@@ -199,13 +199,13 @@ public static class Keyboard
         VirtualKeyCode.VK_H,
         VirtualKeyCode.VK_J,
 
-        VirtualKeyCode.VK_Q,
-        VirtualKeyCode.VK_W,
-        VirtualKeyCode.VK_E,
-        VirtualKeyCode.VK_R,
-        VirtualKeyCode.VK_T,
-        VirtualKeyCode.VK_Y,
-        VirtualKeyCode.VK_U
+        VirtualKeyCode.VK_1,
+        VirtualKeyCode.VK_2,
+        VirtualKeyCode.VK_3,
+        VirtualKeyCode.VK_4,
+        VirtualKeyCode.VK_5,
+        VirtualKeyCode.VK_6,
+        VirtualKeyCode.VK_7
     };
 
     private static readonly IReadOnlyList<VirtualKeyCode> QWERTZ = new List<VirtualKeyCode>
